@@ -1,3 +1,5 @@
+package practice
+
 @main def hello: Unit = 
   println("Hello world!")
   println(msg)
