@@ -13,4 +13,5 @@ hs_err_pid*
 .vscode
 .metals
 .bloop
+.bsp
 target
